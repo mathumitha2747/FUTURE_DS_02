@@ -1,1 +1,1 @@
-# FUTURE_DS_02
+This project analyzes Facebook and Instagram ad campaign data to evaluate overall campaign performance, audience engagement, Click-Through Rate (CTR), and Return on Investment (ROI). Using data analytics and visualization techniques, the project transforms raw ad data into meaningful insights that help measure marketing effectiveness and optimize future campaigns.The analysis focuses on understanding how different campaigns perform across key metrics such as impressions, clicks, engagement, conversions, and cost.# FUTURE_DS_02
